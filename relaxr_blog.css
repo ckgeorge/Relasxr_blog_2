@@ -53,7 +53,7 @@ hr {
 img {
   width: 100%;
 }
-p:nth-of-type(1):first-letter{ 
+.entry p:nth-of-type(1):first-letter{ 
   float: left; 
   color: #606161; 
   font-size:5em; 
