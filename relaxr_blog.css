@@ -27,7 +27,7 @@ button {
 	max-width: 960px;
 	margin: 0 auto;
 }
-.entry {
+.container {
 	box-sizing: border-box;
 	padding-top: 30px;
   width: 700px;
@@ -39,10 +39,6 @@ button {
   margin-bottom: 10px;
 }
 
-p {
-  margin-top: 10px;
-	width: 720px;
- } 
 h3 {
   font-size: 32px;
   font-weight: 800;
